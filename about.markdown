@@ -6,5 +6,8 @@ permalink: /about/
 
 かわいいぽんずの写真を載せます☆
 
+名前：ぽんず
+性別：オス
+種類：ジャンガリアン
 
-[jekyll-organization]: https://github.com/jekyll
+
