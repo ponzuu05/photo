@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "ぽんずとのご対面"
+date:   203/06/07
+categories: jekyll update
+---
+ぽんずがお家に来た時
+
+[小さい～～～]
+
+![small-kids](\my-blog\assets\images\0607\small-kids.jpg)
+
+
+[きなこ餅]
+
+![kinako](/my-blog\assets\images\0607\ponzu-kinako.jpg)
+
+[すごい体勢]
+
+![manuke](\my-blog\assets\images\0607\manuke.jpg)
+
